@@ -6,7 +6,7 @@ Simple progress bar for console programs.
 ## Installation
 
 ```
-go get github.com/cheggaaa/pb
+go get github.com/c-darwin/dcoin-go/vendor/src/github.com/c-darwin/pb
 ```   
 
 ## Usage   
@@ -15,7 +15,7 @@ go get github.com/cheggaaa/pb
 package main
 
 import (
-	"github.com/cheggaaa/pb"
+	"github.com/c-darwin/dcoin-go/vendor/src/github.com/c-darwin/pb"
 	"time"
 )
 
@@ -131,7 +131,7 @@ package main
 
 import (
     "math/rand"
-    "github.com/cheggaaa/pb"    
+    "github.com/c-darwin/dcoin-go/vendor/src/github.com/c-darwin/pb"
     "sync"
     "time"
 )

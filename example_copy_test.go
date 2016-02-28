@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cheggaaa/pb"
+	"github.com/c-darwin/dcoin-go/vendor/src/github.com/c-darwin/pb"
 )
 
 func Example_copy() {
